@@ -1,0 +1,13 @@
+{
+  "name": "girih-exe-contract",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GIRIH.EXE - ERC-721 contract for a 10-piece generative collection",
+  "scripts": {
+    "compile": "node scripts/compile.js"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^5.1.0",
+    "solc": "0.8.24"
+  }
+}
